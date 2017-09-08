@@ -2,7 +2,7 @@
 
 - Implement Bubble sort algorith in JavaScript.
 
-- Let's say you have 3 urls of images. Now show a random image on the page load. Add a button on the page. Show replace image with random image on click of the button.
+- Let's say you have 3 urls of images. Now show a random image on the page load. Add a button on the page. Replace image with random image on click of the button.
 
 - Prompt user to enter a sting for user. Now from the input string count the number of vowels and display to the user.
 
