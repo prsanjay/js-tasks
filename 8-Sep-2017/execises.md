@@ -1,4 +1,4 @@
-More Exercises
+**More Exercises**
 
 - Implement Bubble sort algorith in JavaScript.
 
@@ -32,5 +32,5 @@ Avg   > 90 = A grade, > 80 = B grade,  > 70 = C grade , > 60 D grade , < 35 = Fa
 
 - An Armstrong number of three digits is an integer such that the sum of the cubes of its digits is equal to the number itself.
 
-  For example, 371 is an Armstrong number since 3**3 + 7**3 + 1**3 = 371.
+  For example, 371 is an Armstrong number since `3**3 + 7**3 + 1**3 = 371`.
   Input a number from user and check whether number is Armstrong or not.
